@@ -1,0 +1,11 @@
+API's I developed:
+======================
+	FileName	 				MethodName
+	========					==========
+HumanTaskResource				completeUserTask
+
+ProcessResource					abortProcessInstance
+
+ProcessResource					updateProcessInstanceVariables
+
+WorkitemResource				completeworkitem
